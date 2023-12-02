@@ -56,14 +56,14 @@
 BEGIN
 	BLOCK "StringFileInfo" {
 		BLOCK "040904B0" {
-			VALUE "Comments", "https://github.com/vxiiduu/NotepadEx"
+			VALUE "CompanyName", "Microsoft Corporation"
 			VALUE "FileDescription", "Notepad"
-			VALUE "FileVersion", "1.3.0.1"
+			VALUE "FileVersion", "10.0.17134.1967 (WinBuild.160101.0800)"
 			VALUE "InternalName", "Notepad"
-			VALUE "LegalCopyright", "https://github.com/vxiiduu/NotepadEx"
+			VALUE "LegalCopyright", "\xA9 Microsoft Corporation. All rights reserved."
 			VALUE "OriginalFilename", "NOTEPAD.EXE"
-			VALUE "ProductName", "NotepadEx"
-			VALUE "ProductVersion", "1.3.0.1"
+			VALUE "ProductName", "Microsoft\xAE Windows\xAE Operating System"
+			VALUE "ProductVersion", "10.0.17134.1967"
 		}
 	}
 
