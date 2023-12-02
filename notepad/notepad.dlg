@@ -83,7 +83,7 @@ BEGIN
 
     AUTOCHECKBOX    "Match &whole word only", chx1, 6, 26, 100, 12, WS_GROUP
     AUTOCHECKBOX    "Match &case", chx2, 6, 42, 64, 12
-	AUTOCHECKBOX	"Wrap &around", chx3, 6, 58, 70, 12
+	AUTOCHECKBOX	"Wrap ar&ound", chx3, 6, 58, 70, 12
 
     GROUPBOX        "Direction", grp1, 107, 26, 68, 28, WS_GROUP
     AUTORADIOBUTTON "&Up", rad1, 111, 38, 25, 12, WS_GROUP
